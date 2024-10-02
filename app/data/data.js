@@ -14,7 +14,7 @@ export const altProductData = [
       name: "Smartphone",
       brand: "TechCo",
       price: 699.99,
-      description: "The latest smartphone with cutting-edge features.",
+      description: "The latest smartphone with cutting-edge features very cool!.",
       stock: 100,
       image: "/smartphone.jpg",
       ref: "smartphone"
