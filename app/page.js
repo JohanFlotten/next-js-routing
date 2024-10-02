@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { AltProductCards } from "./components/itemcards";
+import { AltProductCards } from "./components/Itemcards";
 
 export default function Home() {
   return ( 
